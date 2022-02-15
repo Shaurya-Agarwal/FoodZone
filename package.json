@@ -1,5 +1,5 @@
 {
-  "author": "Anuj Shah <anujshah584@gmail.com>",
+  "author": "Shaurya Agarwal",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
@@ -32,7 +32,7 @@
   "name": "food-delivery",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShahAnuj2610/tomato-food-delivery.git"
+    "url": "git+https://github.com/Shaurya-Agarwal/FoodZone.git"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -45,9 +45,9 @@
   },
   "version": "1.0.0",
   "bugs": {
-    "url": "https://github.com/ShahAnuj2610/tomato-food-delivery/issues"
+    "url": "https://github.com/Shaurya-Agarwal/FoodZone/issues"
   },
-  "homepage": "https://github.com/ShahAnuj2610/tomato-food-delivery#readme",
+  "homepage": "https://github.com/Shaurya-Agarwal/FoodZone#readme",
   "directories": {
     "test": "test"
   }
